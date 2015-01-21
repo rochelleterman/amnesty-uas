@@ -1,0 +1,9 @@
+"x"
+"Malaysia: Imminent execution, Chu Tak Fai [m], aged 30, Hong Kong national 
+ Malaysia: Imminent execution, Chu Tak Fai [m], aged 30,   Hong Kong        national
+
+ | Amnesty International 
+ Chu Tak Fai, who has been on death row since 1994, has exhausted all his appeals and is facing imminent execution. His only hope for commutation now lies with the Sultan of Kedah, the state where he was convicted, who has the power to grant clemency. 
+ Chu Tak Fai, who has been on death row since 1994, has    exhausted all his appeals and is facing imminent          execution. His only hope for commutation now lies with    the Sultan of Kedah, the state where he was convicted,    who has the power to grant clemency.
+
+"

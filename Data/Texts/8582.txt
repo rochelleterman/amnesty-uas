@@ -1,0 +1,7 @@
+"x"
+"USA: Death penalty, Stephen Wayne Anderson, white, aged 48. 
+ USA: Death penalty, Stephen Wayne Anderson, white, aged   48. | Amnesty International 
+ Stephen Anderson is scheduled to be executed in California on 29 January 2002, for the murder of an 81-year-old, Elizabeth Lyman.. 
+ Stephen Anderson is scheduled to be executed in           California on 29 January 2002, for the murder of an       81-year-old, Elizabeth Lyman..
+
+"
